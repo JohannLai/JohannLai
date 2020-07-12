@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Nice to meet you. When you see this avatar, you will know it is me. 
+Nice to meet you here.
 
 - 🔭 I’m currently working on [doa](https://github.com/JohannLai/doa), A middleware framework for Deno's http serve🦕
 - 🚀 I‘m working on my PLAN.T too, which is a personal life project.
