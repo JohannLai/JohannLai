@@ -7,3 +7,5 @@ Nice to meet you here.
 - 🌱 I’m currently learning Go & Rust.
 - 💬 Ask me about [everything](https://github.com/JohannLai/JohannLai/issues)
 - ⚡ Fun fact: 我从没有见过一个不孤独的人，会发出耀眼的光芒。
+
+![](https://visitor-badge.glitch.me/badge?page_id=JohannLai.JohannLai)
