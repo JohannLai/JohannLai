@@ -8,4 +8,6 @@ Nice to meet you here.
 - 💬 Ask me about [everything](https://github.com/JohannLai/JohannLai/issues)
 - ⚡ Fun fact: 我从没有见过一个不孤独的人，会发出耀眼的光芒。
 
-![](https://visitor-badge.glitch.me/badge?page_id=JohannLai.JohannLai)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=johannlai&show_icons=true)
+
+
