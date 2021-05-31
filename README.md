@@ -3,6 +3,7 @@
 Nice to meet you here.
 
 - 🔭 I’m currently working on [doa](https://github.com/JohannLai/doa), A middleware framework for Deno's http serve🦕
+- 📸 A pwerful picture editor app coming soon.
 - 🚀 I‘m working on my PLAN.T too, which is a personal life project.
 - 🌱 I’m currently learning Go & Rust.
 - 💬 Ask me about [everything](https://github.com/JohannLai/JohannLai/issues)
